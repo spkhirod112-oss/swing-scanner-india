@@ -1,0 +1,13 @@
+{
+  "updated_utc": "2026-10-31T11:14:57.931292+00:00",
+  "provider": "Yahoo Finance via yfinance (unofficial, delayed)",
+  "universe": 32,
+  "processed": 29,
+  "benchmark_available": true,
+  "errors": [
+    "TATAMOTORS.NS: no data",
+    "500325.BO: no data",
+    "532540.BO: no data"
+  ],
+  "status": "ok"
+}
